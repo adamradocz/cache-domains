@@ -1,4 +1,5 @@
 *.cdn.blizzard.com
+blizzard.gcdn.cloudn.co.kr
 blizzard.vo.llnwd.net
 blzddist1-a.akamaihd.net
 blzddist2-a.akamaihd.net
