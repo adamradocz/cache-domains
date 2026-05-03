@@ -27,7 +27,7 @@
     },
 		{
 			"name": "debian",
-			"description": "Debian based repositories",
+			"description": "Debian linux repositories",
 			"domain_files": ["debian.txt"]
 		},
     {
