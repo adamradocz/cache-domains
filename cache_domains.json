@@ -25,6 +25,11 @@
       "description": "CDN for Call of Duty",
       "domain_files": ["cod.txt"]
     },
+		{
+			"name": "debian",
+			"description": "Debian linux repositories",
+			"domain_files": ["debian.txt"]
+		},
     {
       "name": "daybreak",
       "description": "CDN for Daybreak Games",

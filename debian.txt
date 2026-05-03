@@ -1,0 +1,76 @@
+deb.debian.org
+*.deb.debian.org
+ftp.debian.org
+# Armenia
+ftp.am.debian.org
+# Australia
+ftp.au.debian.org
+# Austria
+ftp.at.debian.org
+# Belgium
+ftp.be.debian.org
+# Brazil
+ftp.br.debian.org
+# Bulgaria
+ftp.bg.debian.org
+# Canada
+ftp.ca.debian.org
+# Chile
+ftp.cl.debian.org
+# China
+ftp.cn.debian.org
+# Croatia
+ftp.hr.debian.org
+# Czech Republic
+ftp.cz.debian.org
+# Denmark
+ftp.dk.debian.org
+# Estonia
+ftp.ee.debian.org
+# Finland
+ftp.fi.debian.org
+# France
+ftp.fr.debian.org
+# Germany
+ftp.de.debian.org
+ftp2.de.debian.org
+# Hong Kong
+ftp.hk.debian.org
+# Iceland
+ftp.is.debian.org
+# Italy
+ftp.it.debian.org
+# Japan
+ftp.jp.debian.org
+# Korea
+ftp.kr.debian.org
+# Lithuania
+ftp.lt.debian.org
+# Moldova
+ftp.md.debian.org
+# Netherlands
+ftp.nl.debian.org
+# New Caledonia
+ftp.nc.debian.org
+# New Zealand
+ftp.nz.debian.org
+# Norway
+ftp.no.debian.org
+# Poland
+ftp.pl.debian.org
+# Portugal
+ftp.pt.debian.org
+# Russia
+ftp.ru.debian.org
+# Slovakia
+ftp.sk.debian.org
+# Sweden
+ftp.se.debian.org
+# Switzerland
+ftp.ch.debian.org
+# Taiwan
+ftp.tw.debian.org
+# United Kingdom
+ftp.uk.debian.org
+# United States
+ftp.us.debian.org
