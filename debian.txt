@@ -1,0 +1,11 @@
+# === Debian ===
+deb.debian.org
+# === Kali ===
+http.kali.org
+# === Linux Mint ===
+packages.linuxmint.com
+# === Pop!_OS ===
+apt.pop-os.org
+# === Ubuntu ===
+archive.ubuntu.com
+ppa.launchpad.net
