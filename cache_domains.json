@@ -50,6 +50,16 @@
       "description": "CDN for ChromeOS, Chrome browser, and Google Updates",
       "domain_files": ["google.txt"]
     },
+		{
+			"name": "kali",
+			"description": "Kali linux repositories",
+			"domain_files": ["kali.txt"]
+		},
+		{
+			"name": "linuxmint",
+			"description": "Linux Mint repositories",
+			"domain_files": ["linuxmint.txt"]
+		},
     {
       "name": "neverwinter",
       "description": "Cryptic CDN for Neverwinter",
@@ -77,6 +87,11 @@
       "description": "CDN for Path Of Exile",
       "domain_files": ["pathofexile.txt"]
     },
+		{
+			"name": "popos",
+			"description": "Pop!_OS linux repositories",
+			"domain_files": ["popos.txt"]
+		},
     {
       "name": "renegadex",
       "description": "CDN for Renegade X",
@@ -116,7 +131,12 @@
       "name": "test",
       "description": "CDN for Testing, recommended to enable for additional diagnostics",
       "domain_files": ["test.txt"]
-    },
+    },    
+		{
+			"name": "ubuntu",
+			"description": "Ubuntu linux repositories",
+			"domain_files": ["ubuntu.txt"]
+		},
     {
       "name": "uplay",
       "description": "CDN for Ubisoft",
